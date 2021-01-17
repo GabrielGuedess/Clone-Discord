@@ -17,7 +17,7 @@ export const Button = styled.button<Props>`
   transition: border-radius .2s, background-color .2s;
 
   > img{
-    width: 24px;
+    width: 31px;
   }
 
   &::before{
